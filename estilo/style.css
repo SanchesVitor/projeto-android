@@ -10,7 +10,7 @@
 
 
 :root {
-    --cor0: #c5ebd6;
+    --cor0: #c5ebd6; 
     --cor1: #83e1ad;
     --cor2: #3ddc84;
     --cor3: #2fa866;
@@ -56,11 +56,11 @@ header > p {
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
     color: white;
-    max-width: 500px;
+    max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.322);
 
 }
